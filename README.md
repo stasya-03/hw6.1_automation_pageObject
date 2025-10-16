@@ -1,0 +1,1 @@
+[![Java CI with Gradle](https://github.com/stasya-03/hw6.1_automation_pageObject/actions/workflows/gradle.yml/badge.svg)](https://github.com/stasya-03/hw6.1_automation_pageObject/actions/workflows/gradle.yml)
